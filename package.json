@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "@types/pdf": "^0.0.31",
     "gh-pages": "^6.1.1"
   }
 }
